@@ -10,5 +10,3 @@ draft: false
 [Google SRE](https://sre.google/books/)
 
 [The Kubernetes Book](/pdf/the-kubernetes-book.pdf)
-
-[Head First Python](/pdf/head-first-pythoPython
